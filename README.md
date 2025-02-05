@@ -6,6 +6,7 @@ Aplicativo Android Nativo desenvolvido com a linguagem de programação Kotlin. 
 
 <img src="https://github.com/Luciana2202/Currency_Conversor/blob/master/tela1.png" width=200/>              <img src="https://github.com/Luciana2202/Currency_Conversor/blob/master/tela2.png" width=200/>           <img src="https://github.com/Luciana2202/Currency_Conversor/blob/master/tela3.png" width=200/>
 
+## Tecnologias
 
 * Activity para host de telas
 * Snackbar
